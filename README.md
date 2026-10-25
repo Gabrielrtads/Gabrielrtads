@@ -68,6 +68,6 @@ Minhas ferramentas e skills para agentes de codificação são utilizadas diaria
 
 Se você quer trocar ideias sobre Vibe Coding, enxames de agentes autônomos, SaaS vertical ou como a IA transforma negócios físicos tradicionais:
 
-- 💼 **LinkedIn:** [Gabriel Toledo](https://www.linkedin.com/in/gabrieltoledo/) *(atualize para sua URL exata)*
+- 💼 **LinkedIn:** [Gabriel Toledo](https://www.linkedin.com/in/gabriel-toledo-6296b3125/)
 - 🌐 **Barber.fi:** [painel.barberfi.com.br](https://painel.barberfi.com.br)
 - 🐙 **GitHub:** [@Gabrielrtads](https://github.com/Gabrielrtads)
