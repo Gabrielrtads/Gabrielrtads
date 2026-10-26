@@ -51,7 +51,7 @@ Minhas ferramentas e skills para agentes de codificação são utilizadas diaria
 - 📦 **800+ Clones Ativos** nos últimos 14 dias em 14 repositórios públicos
 - 🧑‍💻 **400+ Desenvolvedores Únicos** integrando essas skills em seus fluxos de trabalho
 - 🤝 **Contribuidor Ativo:** PR [#2](https://github.com/oalanicolas/OS/pull/2) no ecossistema de AI Agents de Alan Nicolas
-- 🕵️ **[cross-agent-trajectory](https://github.com/Gabrielrtads/cross-agent-trajectory):** Forense e auditoria de trajetórias out-of-band entre múltiplos hosts e modelos de IA
+- 📜 **[agent-log](https://github.com/Gabrielrtads/agent-log):** O `git log` para agentes de IA — inspeção de trajetórias, thinking e falhas silenciosas entre Windows e Linux VPS
 - 💉 **[anti-cutoff](https://github.com/Gabrielrtads/anti-cutoff):** Vacina contra o limite de corte de treino de LLMs, sincronizando documentações em tempo real
 
 ---
