@@ -1,8 +1,8 @@
 # Olá, sou o Gabriel Toledo 👋
 ### Barbeiro & AI Systems Builder 💈 ➔ 🤖
 
-[![Clones](https://img.shields.io/badge/Open--Source_Clones-800%2B-blue?style=for-the-badge&logo=git)](https://github.com/Gabrielrtads)
-[![Devs Reached](https://img.shields.io/badge/Unique_Devs-400%2B-success?style=for-the-badge&logo=github)](https://github.com/Gabrielrtads)
+[![Clones](https://img.shields.io/badge/Open--Source_Clones-1.400%2B-blue?style=for-the-badge&logo=git)](https://github.com/Gabrielrtads)
+[![Devs Reached](https://img.shields.io/badge/Unique_Devs-700%2B-success?style=for-the-badge&logo=github)](https://github.com/Gabrielrtads)
 [![Methodology](https://img.shields.io/badge/Methodology-100%25_Vibe_Coding-orange?style=for-the-badge)](https://github.com/Gabrielrtads)
 
 > *"O software do futuro não pertence a quem decora sintaxe, mas a quem tem visão de negócio, vive o chão da operação e orquestra Inteligência Artificial com pragmatismo implacável."*
@@ -13,31 +13,50 @@ Não venho da bolha teórica de TI: minha escola foi o balcão da barbearia, lid
 
 ---
 
-### 🚀 Principais Projetos
+### 💼 Vertical SaaS (Produto Comercial em Produção)
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3 align="center">💈 <a href="https://painel.barberfi.com.br">Barber.fi</a></h3>
+      <p align="center"><b>Vertical SaaS de Gestão & Agendamento Inteligente para Barbearias e Negócios de Beleza</b></p>
+      <p>Plataforma proprietária completa com inteligência transacional, automações em tempo real e pagamentos integrados. Desenvolvido para resolver o caos de no-shows e a rotina do negócio físico real. <i>(Código-fonte proprietário)</i></p>
+      <p align="center">🌐 <a href="https://painel.barberfi.com.br"><b>Acessar painel.barberfi.com.br ➔</b></a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Principais Ferramentas Open-Source & Skills CLI
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">💈 <a href="https://painel.barberfi.com.br">Barber.fi</a></h3>
-      <p align="center"><b>Vertical SaaS para Barbearias e Negócios de Beleza</b></p>
-      <p>Plataforma completa de gestão, agendamento inteligente, pagamentos e automação transacional com agentes de IA. Desenvolvido para resolver o caos de no-shows e rotina do negócio físico.</p>
+      <h3 align="center">🎬 <a href="https://github.com/Gabrielrtads/vibe-design-studio">vibe-design-studio</a></h3>
+      <p align="center"><b>Headless Creative Studio para Agentes (Top 1 em Clones)</b></p>
+      <p>Estúdio visual e animação programática em Remotion + React para agentes autônomos criarem vídeos com Whisper e motion graphics sem interface humana.</p>
+      <p><code>npx skills add Gabrielrtads/vibe-design-studio</code></p>
     </td>
     <td width="50%">
       <h3 align="center">🥷 <a href="https://github.com/Gabrielrtads/kage-bunshin">kage-bunshin</a></h3>
       <p align="center"><b>Clonagem & Execução Paralela de Agentes de IA</b></p>
-      <p>Motor headless que instancia múltiplos clones de agentes (Claude Code, Codex, Antigravity) rodando tarefas simultâneas em Git Worktrees isolados com reintegração de memória.</p>
+      <p>Motor headless que instancia múltiplos clones de agentes (Claude, Codex, Antigravity) rodando em Git Worktrees isolados com reintegração de memória.</p>
+      <p><code>npx skills add Gabrielrtads/kage-bunshin</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3 align="center">⚖️ <a href="https://github.com/Gabrielrtads/sta">STA</a></h3>
       <p align="center"><b>Supremo Tribunal dos Agentes</b></p>
-      <p>Corte de revisão adversarial multi-modelo no terminal (2 rodadas: Defesa vs Acusação -> Magistrado). Elimina o viés de concordância da IA e julga código, arquitetura e decisões de negócio.</p>
+      <p>Corte de revisão adversarial multi-modelo no terminal (Defesa vs Acusação -> Magistrado) para julgar código, arquitetura e decisões de negócio sem viés de concordância.</p>
+      <p><code>npx skills add Gabrielrtads/sta</code></p>
     </td>
     <td width="50%">
-      <h3 align="center">🎬 <a href="https://github.com/Gabrielrtads/vibe-design-studio">vibe-design-studio</a></h3>
-      <p align="center"><b>Headless Creative Studio para Agentes</b></p>
-      <p>Estúdio visual e motor de animação programática em Remotion + React para agentes autônomos criarem vídeos, legendas via Whisper e motion graphics profissionais sem interface humana.</p>
+      <h3 align="center">📜 <a href="https://github.com/Gabrielrtads/agent-log">agent-log</a></h3>
+      <p align="center"><b>Time Machine & Telemetria para Agentes de IA</b></p>
+      <p>O <code>git log</code> para agentes — inspeção forense de trajetórias, thinking oculto, comandos e detecção de falhas silenciosas entre Windows e Linux.</p>
+      <p><code>npx skills add Gabrielrtads/agent-log</code></p>
     </td>
   </tr>
 </table>
@@ -48,11 +67,12 @@ Não venho da bolha teórica de TI: minha escola foi o balcão da barbearia, lid
 
 Minhas ferramentas e skills para agentes de codificação são utilizadas diariamente por desenvolvedores no mundo todo via CLI:
 
-- 📦 **800+ Clones Ativos** nos últimos 14 dias em 14 repositórios públicos
-- 🧑‍💻 **400+ Desenvolvedores Únicos** integrando essas skills em seus fluxos de trabalho
-- 🤝 **Contribuidor Ativo:** PR [#2](https://github.com/oalanicolas/OS/pull/2) no ecossistema de AI Agents de Alan Nicolas
-- 📜 **[agent-log](https://github.com/Gabrielrtads/agent-log):** O `git log` para agentes de IA — inspeção de trajetórias, thinking e falhas silenciosas entre Windows e Linux VPS
+- 📦 **1.400+ Clones Ativos** nos últimos 14 dias em 14 repositórios públicos
+- 🧑‍💻 **700+ Desenvolvedores Únicos** integrando essas skills em seus fluxos de trabalho
 - 💉 **[anti-cutoff](https://github.com/Gabrielrtads/anti-cutoff):** Vacina contra o limite de corte de treino de LLMs, sincronizando documentações em tempo real
+- ⚡ **[openrouter-zero-mcp](https://github.com/Gabrielrtads/openrouter-zero-mcp):** Servidor MCP zero-dependency em JSON-RPC nativo para inferência multi-modelo ultrarrápida (sub-30ms)
+
+> *⭐ Se alguma dessas ferramentas te economizou tempo, deixe uma estrela no repositório para apoiar o ecossistema open-source!*
 
 ---
 
